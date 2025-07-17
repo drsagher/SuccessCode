@@ -14,7 +14,6 @@ If you need cash flow right away, focus on these fast-start options:
 - **Tap Your Network**  
   Reach out to past clients, colleagues, or friends in your network. A simple message like, “I’m available for web development projects—know anyone who needs help?” can lead to referrals or short-term work.
 
----
 
 ## Medium-Term Strategies for Steady Income
 Once you’ve got some momentum, these options can build a more consistent revenue stream:
@@ -37,7 +36,6 @@ Once you’ve got some momentum, these options can build a more consistent reven
 - **Cold Outreach**  
   Identify businesses with outdated or slow websites (e.g., local restaurants, small retailers) and send personalized emails offering your services. For example: “I noticed your site could use a performance boost—I can help increase load speed and customer engagement.”
 
----
 
 ## Long-Term Approaches for Sustainable Growth
 For lasting financial strength, invest time in these bigger-picture strategies:
@@ -53,7 +51,6 @@ For lasting financial strength, invest time in these bigger-picture strategies:
   - **Budget**: Track your expenses to ensure you’re living within your means.
   - **Diversify**: Aim for multiple income streams (e.g., freelancing + digital products + consulting) to reduce risk.
 
----
 
 ## How to Sell Your Skills Productively
 To maximize your earning potential, market yourself effectively:
@@ -70,7 +67,6 @@ To maximize your earning potential, market yourself effectively:
 - **Stay Current**  
   Keep learning new technologies (e.g., [**Jamstack**](https://jamstack.org/), [**serverless computing**](https://en.wikipedia.org/wiki/Serverless_computing)) to offer cutting-edge services. This keeps you competitive and appealing to clients.
 
----
 
 ## Boosting Your Financial Strength
 Earning money is only half the equation—here’s how to secure your finances:
@@ -87,7 +83,14 @@ Earning money is only half the equation—here’s how to secure your finances:
 - **Diversify Income Streams**  
   Don’t rely on one method—combine freelancing, product sales, and consulting to create stability.
 
----
 
 ## A Note of Encouragement
 Being jobless can feel overwhelming, but your full-stack skills are in demand across industries. You have the tools to turn this moment into an opportunity. Start with quick wins to build confidence and cash flow, then layer in medium- and long-term strategies for growth. Stay persistent, adapt to what works, and keep sharpening your skills—there are many paths to success ahead of you!
+
+## Additional Resources
+
+[Break The Cycle: How To Gain Financial Freedom](https://www.ted.com/talks/lawrence_ong_break_the_cycle_how_to_gain_financial_freedom)
+
+[Building a new generation of financial freedom seekers](https://www.ted.com/talks/frances_cook_building_a_new_generation_of_financial_freedom_seekers)
+
+
