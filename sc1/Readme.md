@@ -4,25 +4,25 @@ As a full-stack web developer and freelancer currently without a job, you have a
 
 ---
 
-### Immediate Steps for Quick Income
+## Immediate Steps for Quick Income
 If you need cash flow right away, focus on these fast-start options:
 
 - **Freelancing with a Twist**  
-  Continue freelancing but refine your approach. Target high-demand niches like building e-commerce websites, progressive web apps (PWAs), or adding AI-powered features (e.g., chatbots). Update your profiles on platforms like **Upwork**, **Fiverr**, or **Toptal** to emphasize these specialties. Highlight your full-stack expertise to stand out.
+  Continue freelancing but refine your approach. Target high-demand niches like building e-commerce websites, progressive web apps (PWAs), or adding AI-powered features (e.g., chatbots). Update your profiles on platforms like [**Upwork**](https://www.upwork.com/), [**Fiverr**](https://www.fiverr.com/), or [**Toptal**](https://www.toptal.com/) to emphasize these specialties. Highlight your full-stack expertise to stand out.
   
 - **Quick Gigs**  
-  Look for small, fast-turnaround projects on platforms like **Fiverr**, **PeoplePerHour**, or **LinkedIn ProFinder**. Examples include fixing bugs, optimizing website performance, or setting up a simple database. These gigs can provide immediate income while you plan bigger moves.
+  Look for small, fast-turnaround projects on platforms like [**Fiverr**](https://www.fiverr.com/), [**PeoplePerHour**](https://www.peopleperhour.com/), or **[LinkedIn](https://www.linkedin.com/) ProFinder**. Examples include fixing bugs, optimizing website performance, or setting up a simple database. These gigs can provide immediate income while you plan bigger moves.
 
 - **Tap Your Network**  
   Reach out to past clients, colleagues, or friends in your network. A simple message like, “I’m available for web development projects—know anyone who needs help?” can lead to referrals or short-term work.
 
 ---
 
-### Medium-Term Strategies for Steady Income
+## Medium-Term Strategies for Steady Income
 Once you’ve got some momentum, these options can build a more consistent revenue stream:
 
 - **Create and Sell Digital Products**  
-  Use your skills to develop reusable assets like WordPress themes, Shopify plugins, or React templates. Sell them on marketplaces such as **ThemeForest**, **CodeCanyon**, or even your own website. This creates passive income over time as buyers download your products.
+  Use your skills to develop reusable assets like [WordPress themes](https://themeforest.net/](https://wordpress.com/), [Shopify](https://www.shopify.com/) plugins, or [React](https://react.dev/) templates. Sell them on marketplaces such as [**ThemeForest**]((https://themeforest.net/)), [**CodeCanyon**](https://codecanyon.net/), or even your own website. This creates passive income over time as buyers download your products.
 
 - **Teach and Share Knowledge**  
   Monetize your expertise by creating content:
@@ -41,7 +41,7 @@ Once you’ve got some momentum, these options can build a more consistent reven
 
 ---
 
-### Long-Term Approaches for Sustainable Growth
+## Long-Term Approaches for Sustainable Growth
 For lasting financial strength, invest time in these bigger-picture strategies:
 
 - **Develop a SaaS Product**  
@@ -57,7 +57,7 @@ For lasting financial strength, invest time in these bigger-picture strategies:
 
 ---
 
-### How to Sell Your Skills Productively
+## How to Sell Your Skills Productively
 To maximize your earning potential, market yourself effectively:
 
 - **Specialize in a Niche**  
@@ -74,7 +74,7 @@ To maximize your earning potential, market yourself effectively:
 
 ---
 
-### Boosting Your Financial Strength
+## Boosting Your Financial Strength
 Earning money is only half the equation—here’s how to secure your finances:
 
 - **Track and Budget**  
