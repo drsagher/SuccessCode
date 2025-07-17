@@ -87,10 +87,15 @@ Earning money is only half the equation—here’s how to secure your finances:
 ## A Note of Encouragement
 Being jobless can feel overwhelming, but your full-stack skills are in demand across industries. You have the tools to turn this moment into an opportunity. Start with quick wins to build confidence and cash flow, then layer in medium- and long-term strategies for growth. Stay persistent, adapt to what works, and keep sharpening your skills—there are many paths to success ahead of you!
 
+
 ## Additional Resources
+
+[Google CEO Sundar Pichai on the future of search, AI agents, and selling Chrome](https://www.youtube.com/watch?v=1IxG7ywSNXk)
 
 [Break The Cycle: How To Gain Financial Freedom](https://www.ted.com/talks/lawrence_ong_break_the_cycle_how_to_gain_financial_freedom)
 
 [Building a new generation of financial freedom seekers](https://www.ted.com/talks/frances_cook_building_a_new_generation_of_financial_freedom_seekers)
 
+[The SEVEN Things You NEED To Learn for Your Financial FREEDOM Robert Kiyosaki](https://web.facebook.com/share/v/1BDijWVqjb/)
 
+[10 Use Cases for AI Agents](https://www.youtube.com/watch?v=Ts42JTye-AI)
