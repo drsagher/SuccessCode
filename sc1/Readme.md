@@ -19,7 +19,7 @@ If you need cash flow right away, focus on these fast-start options:
 Once you’ve got some momentum, these options can build a more consistent revenue stream:
 
 - **Create and Sell Digital Products**  
-  Use your skills to develop reusable assets like [WordPress themes](https://themeforest.net/](https://wordpress.com/), [Shopify](https://www.shopify.com/) plugins, or [React](https://react.dev/) templates. Sell them on marketplaces such as [**ThemeForest**]((https://themeforest.net/)), [**CodeCanyon**](https://codecanyon.net/), or even your own website. This creates passive income over time as buyers download your products.
+  Use your skills to develop reusable assets like [WordPress](https://wordpress.com/) themes, [Shopify](https://www.shopify.com/) plugins, or [React](https://react.dev/) templates. Sell them on marketplaces such as [**ThemeForest**]((https://themeforest.net/)), [**CodeCanyon**](https://codecanyon.net/), or even your own website. This creates passive income over time as buyers download your products.
 
 - **Teach and Share Knowledge**  
   Monetize your expertise by creating content:
