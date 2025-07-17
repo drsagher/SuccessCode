@@ -1,3 +1,5 @@
+# Web Developer Strategies
+
 As a full-stack web developer and freelancer currently without a job, you have a valuable skill set that can be leveraged in multiple ways to generate income beyond traditional employment. Below, I’ll outline actionable strategies to help you earn money using your skills, sell them productively, and increase your financial strength. These are divided into immediate, medium-term, and long-term approaches, with practical tips tailored to your background.
 
 ---
